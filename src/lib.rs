@@ -16,7 +16,7 @@ struct Config {
 
 impl Default for Config {
     fn default() -> Self {
-        Self { max_entries: 3 }
+        Self { max_entries: 5 }
     }
 }
 
